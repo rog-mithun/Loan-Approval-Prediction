@@ -62,13 +62,13 @@ An intelligent machine learning application that predicts loan approval using tr
 
 ## 🧪 Sample Input
 
--[Input](LoanApprovalPrediction.csv)
+[Input](LoanApprovalPrediction.csv)
 
 ---
 
 ## 📂 Demo Preview
 
--![Output](Gradio.png)
+![Output](Gradio.png)
 
 ---
 
