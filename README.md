@@ -55,14 +55,14 @@ An intelligent machine learning application that predicts loan approval using tr
    pip install -r requirements.txt
 
 3. **Launch the app:**
-   ```bash
+   
    Open Loan Approval Prediction.ipynb in Jupyter Notebook or Colab and Run.
 
 ---
 
 ## 🧪 Sample Input
 
--![Input](LoanApprovalPrediction.csv)
+-[Input](LoanApprovalPrediction.csv)
 
 ---
 
