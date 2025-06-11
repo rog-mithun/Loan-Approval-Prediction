@@ -74,4 +74,4 @@ An intelligent machine learning application that predicts loan approval using tr
 
 📖 License
 
-This project is licensed under the MIT License © 2022 Mithunsankar S.
+This project is licensed under the [MIT License](LICENSE) © 2022 Mithunsankar S.
